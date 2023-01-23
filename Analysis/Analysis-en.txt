@@ -1,0 +1,166 @@
+Keywords
+--------
+ATTRIBUTE: Attribute to external work
+BUG:       Bug or Problem
+CLAIM:     Claim/Statement
+COMPARE:   Comparison to other device
+DIALECT:   Spoken dialect
+DISCOVER:  We found out something new! 
+FACT:      Fact. Something that is objective right
+HOWTO:     Tutorial, Explanation how to achieve something
+IDEA:      Proposal for improving things
+LINK:      Link/URL to external information
+MEASURE:   Measurement, e.g. time.
+PART:      Part of the package
+QUESTION:  Question
+SAYING:    Saying
+SPECIAL:   Special feature
+SUMMARY:   Summary
+TRYOUT:    Try something out (experiment)
+WORD:      Special word
+THESIS:    Thesis
+TOC:       Table of Contents
+
+Speaker/Actors
+--------------
+MICHAEL:   Speaker
+
+References
+----------
+VIEWSONIC-M2W: https://github.com/michael-holzheu/Viewsonic-M2W
+TENNIS-TERMINATOR: https://youtu.be/tE9VAnOjaW4
+
+Devices
+-------
+- Projector: XGIMI-ELFIN:   XGIMI Elfin
+- Camera 1:  S22U:          Samsung Galaxy S22 Ultra
+- Camera 2:  ZFOLD3:        Samsung Galaxy Z Fold 3
+- Camera 3:  P30:           Huawai P30
+- Laptop 1:  MS-S-L-STUDIO: Microsoft Surface Laptop Studio, 2 TB
+- Laptop 2:  MACBOOK-PRO:   Apple MacBook Pro (14 inch, M1 Max Chip, 10‑Core CPU and 24‑Core GPU)
+
+Log
+---
+00:01 TOC       Unboxing
+01:51 TOC       Connection options
+02:00 WORD      USB-A
+02:15 WORD      HDMI
+02:22 SPECIAL   Thread for tripod
+02:58 SPECIAL   User manual
+02:58 PART      User manual
+03:08 PART      Small power supply
+03:48 WORD      Schuko plug
+                VIEWSONIC-M2W (02:49)
+04:09 WORD      "Mickey-Mouse" plug
+04:27 PART      Slim remote control
+05:09 SPECIAL   No batteries
+06:37 QUESTION  Power cable too short?
+07:03 WORD      LED-Projector
+07:03 CLAIM     Lamps of the LED projectors are vibration resistant.
+07:15 HOWTO     Turning on the projector
+07:45 COMPARE   Much quieter as ViewSonic M2W
+                VIEWSONIC-M2W (06:13)
+08:16 TOC       Calming startup music
+08:21 WORD      German/English: Booten
+                LINK: https://en.wikipedia.org/wiki/Booting
+08:38 TOC       Switch of device
+08:38 HOWTO     Switch of device
+08:51 THESIS    Double click to switch of device
+09:01 THESIS    Long click to switch of device
+09:18 TOC       Switch on device
+09:22 TOC       Startup display
+09:37 MEASURE   Boot time for Android TV: 36 seconds
+09:51 TOC       Pair bluetooth remote control
+09:51 HOWTO     Pair bluetooth remote control
+10:13 IDEA      Make screen information somehow more clear:
+                E.g. Text: Press both buttons simultaneously?
+10:13 BUG       Backward-Arrow not the same on display and remote control
+11:07 TOC       Battery check
+11:44 HOWTO     Press both buttons simultaneously simultaneously for pairing.
+11:56 TOC       Auto keystone
+11:56 WORD      Auto keystone
+                LINK: https://en.wikipedia.org/wiki/Keystone_effect
+12:10 TOC       Auto zoom and auto keystone in action
+12:39 FACT      The XGIMI Elfin has no stand
+12:39 COMPARE   ViewSonic M2W has a stand
+                VIEWSONIC-M2W (06:13)
+13:24 TOC       Pairing remote control (second try)
+13:43 THESIS    Double-Click necessary for pairing?
+13:56 COMPARE   Setup is more intuitive than with VIEWSONIC-M2W
+14:30 HOWTO     WLAN setup
+15:04 HOWTO     Virtual keyboard special characters part 1
+15:29 HOWTO     Virtual keyboard special characters part 2
+16:52 CLAIM     Sound is rather good
+17:08 DIALECT   SWABIAN: "Hat's a bissle schneller ganga kenna"
+17:10 MEASURE   WLAN connection time: 38 seconds
+17:16 WORD      Google Play
+17:29 HOWTO     Sign in with Google account
+17:54 MEASURE   Enter Password: 40 seconds
+18:59 MEASURE   Two factor authentification (two attempts):52 seconds
+19:38 HOWTO     Two factor authentification
+20:00 IDEA      Accept "Terms of use" by default?
+20:36 IDEA      Accept "privacy" bey default?
+21:37 WORD      English: Projector
+21:42 WORD      German: Beamer
+21:51 WORD      Streaming
+22:18 HOWTO     Toggle between auto- und manual focus
+22:45 S22U      Autofocus failure for closeup
+22:57 ZFOLD3    Autofocus failure for closeup
+23:23 HOWTO     Toggle between autofocus (VOL) and manual focus (FOCUS)
+24:06 TOC       System update
+24:35 CLAIM     Fan noise is acceptable
+24:53 DISCOVER  After moving the projector, auto keystone starts again for recalibration
+25:27 TOC       Image brightness with ceiling light and without
+25:45 HOWTO     Play film from YouTube
+26:18 CLAIM     YouTube could be faster on the device!
+27:29 TOC       Play film VIEWSONIC-M2W
+27:29 LINK      VIEWSONIC-M2W (00:00)
+27:29 ATTRIBUTE VIEWSONIC-M2W
+28:35 CLAIM     YouTube film runs soothly
+28:40 CLAIM     Brightness is good enough for MICHAELs room
+28:50 CLAIM     Sound of fan is acceptable
+28:55 COMPARE   XGIMI-ELFIN is more compact than VIEWSONIC-M2W
+29:06 COMPARE   VIEWSONIC-M2W has USB-C, XGIMI-ELFIN not
+29:17 TOC       Connect MS-S-L-STUDIO
+29:17 TRYOUT    Connect with USB (bad idea?)
+29:32 FACT      MS-S-L-STUDIO only has USB-C connection
+29:54 PART      No USB cable in the package
+29:58 CLAIM     Maybe USB cable is no longer required in the package
+30:02 IRONY     Every technic nerd has 500 USB cables
+30:12 TOC       Adapter USB-C to USB-A, USB-C cable
+31:58 FACT      I urgently need an office!
+33:24 DISCOVER  USB can't be used for display, we need HDMI
+34:09 TOC       Connect with HDMI
+34:09 WORD      HDMI
+                LINK: https://en.wikipedia.org/wiki/HDMI
+35:27 TOC       Adapter USB-C to HDMI
+35:33 WORD      USB-Hub
+36:38 WORD      Bridge
+                LINK: https://en.wikipedia.org/wiki/Network_bridge
+37:22 TOC       MS-S-L-STUDIO is connected
+37:48 HOWTO     Trigger auto keystone
+38:53 WORD      Delay
+38:53 BUG       Screen content is shown with quite a delay
+39:53 TOC       Test YouTube Video
+                LINK: TENNIS-TERMINATOR
+39:53 DISCOVER  Sound is not played over HDMI
+41:06 QUESTION  Why sound can't be played over HDMI?
+42:07 DISCOVER  Auto keystone is triggered by switching off the ceiling light
+42:18 BUG       Auto keystone is triggered by switching off the ceiling light
+42:33 DISCOVER  Video of P30 is way overexposed
+43:14 TOC       Room is now completely dark
+43:37 TOC       Test with MACBOOK-PRO
+45:16 DISCOVER  With MACBOOK-PRO sound can be played over HDMI on XGIMI-ELFIN
+45:34 WORD      Control Center
+                LINK: https://en.wikipedia.org/wiki/Control_Center_(Apple)
+46:07 HOWTO     Volume on remote control
+46:20 COMPARE   MMACBOOK-PRO has more bass than XGIMI-ELFIN
+47:07 TOC       Summary
+
+
+TODOs
+-----
+- Better camera setup for beamer (P30 is overexposed)
+- Keystone uppercase?
+- Evaluate Relations, e.g. COMPARE 
+- Summary
