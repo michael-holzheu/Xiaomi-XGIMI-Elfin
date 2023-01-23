@@ -1,0 +1,39 @@
+Nachdem ich ja bereits kurz den ViewSonic M2W angeschaut habe, kommt nun der chinesische Kollege XGIMI Elfin unter die Lupe.
+
+Sprungmarken:
+
+00:01 Auspacken
+01:51 Verbindungsoptionen
+08:16 Beruhigende Einschaltmusik
+08:38 Ausschalten des Geräts
+09:18 Einschalten des Geräts
+09:22 Einschalten des Displays
+09:51 Bluetooth-Fernbedienung koppeln
+11:07 Batterieprüfung
+11:56 Automatische Trapezkorrektur
+12:10 Auto-Zoom und Auto-Keystone in Aktion
+13:24 Koppeln der Fernbedienung (zweiter Versuch)
+24:06 Systemaktualisierung
+25:27 Bildhelligkeit mit und ohne Deckenlicht
+27:29 Film abspielen VIEWSONIC-M2W
+29:17 MS-S-L-STUDIO anschließen
+30:12 Adapter USB-C auf USB-A, USB-C-Kabel
+34:09 Anschließen mit HDMI
+35:27 Adapter USB-C nach HDMI
+37:22 MS-S-L-STUDIO ist angeschlossen
+39:53 Test YouTube Video
+43:14 Raum ist jetzt komplett dunkel
+43:37 Test mit MACBOOK-PRO
+47:07 Zusammenfassung
+
+Verwendete Musik:
+
+- Success Of The Whole Team (WinnieTheMoog)
+
+Versionsverwaltung:
+
+- GitHub: https://github.com/michael-holzheu/XGIMI-Elfin-Test-I
+
+Änderungsprotokoll:
+
+23.01.2023 Erste Version
