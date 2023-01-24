@@ -36,4 +36,4 @@ Versionsverwaltung:
 
 Änderungsprotokoll:
 
-23.01.2023 Erste Version
+24.01.2023 Erste Version
