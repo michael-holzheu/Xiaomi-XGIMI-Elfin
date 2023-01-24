@@ -1,0 +1,39 @@
+After I already briefly reviewed the ViewSonic M2W, the Chinese colleague Xiaomi XGIMI Elfin is now under the microscope.
+
+Jump marks:
+
+00:01 Unboxing
+01:51 Connection options
+08:16 Calming startup music
+08:38 Switch of device
+09:18 Switch on device
+09:22 Startup display
+09:51 Pair bluetooth remote control
+11:07 Battery check
+11:56 Auto keystone
+12:10 Auto zoom and auto keystone in action
+13:24 Pairing remote control (second try)
+24:06 System update
+25:27 Image brightness with ceiling light and without
+27:29 Play film VIEWSONIC-M2W
+29:17 Connect MS-S-L-STUDIO
+30:12 Adapter USB-C to USB-A, USB-C cable
+34:09 Connect with HDMI
+35:27 Adapter USB-C to HDMI
+37:22 MS-S-L-STUDIO is connected
+39:53 Test YouTube Video
+43:14 Room is now completely dark
+43:37 Test with MACBOOK-PRO
+47:07 Summary
+
+Music used:
+
+- Success Of The Whole Team (WinnieTheMoog)
+
+Version control:
+
+- GitHub: https://github.com/michael-holzheu/Xiaomi-XGIMI-Elfin
+
+Changelog
+
+24.01.2023 First version
