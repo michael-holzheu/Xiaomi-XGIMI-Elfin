@@ -32,7 +32,7 @@ Verwendete Musik:
 
 Versionsverwaltung:
 
-- GitHub: https://github.com/michael-holzheu/XGIMI-Elfin
+- GitHub: https://github.com/michael-holzheu/Xiaomi-XGIMI-Elfin
 
 Änderungsprotokoll:
 
