@@ -32,7 +32,7 @@ Verwendete Musik:
 
 Versionsverwaltung:
 
-- GitHub: https://github.com/michael-holzheu/XGIMI-Elfin-Test-I
+- GitHub: https://github.com/michael-holzheu/XGIMI-Elfin
 
 Änderungsprotokoll:
 
