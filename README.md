@@ -1,4 +1,4 @@
-# XGIMI Elfin Test I
+# XGIMI Elfin
 
 First test of the projector.
 
