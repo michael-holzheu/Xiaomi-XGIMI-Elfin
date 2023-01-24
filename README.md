@@ -4,9 +4,9 @@ First test of the projector.
 
 ## Project contents
 
-- [Attribution](https://github.com/michael-holzheu/XGIMI-Elfin-Test-I/blob/main/Attribution/Attribution.txt)
-- [Description](https://github.com/michael-holzheu/XGIMI-Elfin-Test-I/tree/main/Description)
-- [Subtitles](https://github.com/michael-holzheu/XGIMI-Elfin-Test-I/tree/main/Subtitles)
+- [Attribution](https://github.com/michael-holzheu/Xiaomi-XGIMI-Elfin/blob/main/Attribution/Attribution.txt)
+- [Description](https://github.com/michael-holzheu/Xiaomi-XGIMI-Elfin/tree/main/Description)
+- [Subtitles](https://github.com/michael-holzheu/Xiaomi-XGIMI-Elfin/tree/main/Subtitles)
 
 ## Language support
 
