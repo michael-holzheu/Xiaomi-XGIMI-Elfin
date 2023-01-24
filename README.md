@@ -1,4 +1,4 @@
-# XGIMI Elfin
+# Xiaomi XGIMI Elfin
 
 First test of the projector.
 
