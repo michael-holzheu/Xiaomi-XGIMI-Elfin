@@ -1,6 +1,6 @@
 1
 00:00:03,866 --> 00:00:13,999
-So... So today we are going to test the “Video Projectors - Part 2”
+So... So today we do the test “Video Projectors - Part 2”
 
 2
 00:00:13,999 --> 00:00:20,232
@@ -28,7 +28,7 @@ as not suitable
 
 8
 00:00:34,731 --> 00:00:36,231
-.
+for us.
 
 9
 00:00:36,764 --> 00:00:39,697
@@ -144,11 +144,11 @@ thread for a tripod!
 
 37
 00:02:29,192 --> 00:02:31,125
-Hopefully standard size. Yes,
+Hopefully standard size.
 
 38
 00:02:32,592 --> 00:02:33,658
-yes...
+Yes...
 
 39
 00:02:34,658 --> 00:02:37,791
@@ -232,11 +232,11 @@ I like that.
 
 59
 00:03:48,254 --> 00:03:52,054
-And the right plug, we
+And the right plug, we last time
 
 60
 00:03:54,221 --> 00:03:56,287
-somehow forgot what it was called last time.
+somehow forgot what it was called.
 
 61
 00:03:56,421 --> 00:04:00,254
@@ -244,7 +244,7 @@ We remember: So not the Euro plug, but the
 
 62
 00:04:01,354 --> 00:04:06,087
-European chocolate or safety plug.
+European Schuko or "SCHUtzKOntakt" plug.
 
 63
 00:04:09,620 --> 00:04:11,786
@@ -268,11 +268,11 @@ Yes!
 
 68
 00:04:26,986 --> 00:04:29,186
-Then here
+Then here's
 
 69
 00:04:29,186 --> 00:04:32,719
-'s the remote control.
+the remote control.
 
 70
 00:04:33,519 --> 00:04:45,018
@@ -288,27 +288,27 @@ that this is somehow a special
 
 73
 00:04:50,751 --> 00:04:53,118
-operation of the XGIMI.
+operation of the Xiaomi.
 
 74
 00:04:58,917 --> 00:05:02,450
-Do we have to open now, here!
+We have to open now, here!
 
 75
 00:05:09,750 --> 00:05:11,317
-And here
+And here,
 
 76
 00:05:11,317 --> 00:05:14,516
-, interestingly, no batteries!
+interestingly, no batteries!
 
 77
 00:05:15,750 --> 00:05:17,716
-Which
+Which of course
 
 78
 00:05:18,316 --> 00:05:21,316
-of course brings both advantages and disadvantages.
+brings both advantages and disadvantages.
 
 79
 00:05:21,316 --> 00:05:25,349
@@ -320,7 +320,7 @@ who don't have batteries at home at the moment!
 
 81
 00:05:31,216 --> 00:05:33,216
-But I think I found some...
+But I think I have some...
 
 82
 00:05:43,082 --> 00:05:46,048
@@ -356,11 +356,11 @@ the power is coming!
 
 90
 00:06:37,945 --> 00:06:40,412
-That's almost a bit short, isn't it? Let's see if it's enough... It
+That's almost a bit short, isn't it? Let's see if it's enough...
 
 91
 00:06:41,179 --> 00:06:42,879
-will be enough!
+It will be enough!
 
 92
 00:06:43,245 --> 00:06:45,178
@@ -380,7 +380,7 @@ bang!
 
 96
 00:06:57,078 --> 00:06:58,178
-is in!
+It's in!
 
 97
 00:06:58,444 --> 00:07:02,911
@@ -504,7 +504,7 @@ Hmm, fan is still running...
 
 127
 00:09:08,438 --> 00:09:14,404
-stay on longer?
+Stay on longer?
 
 128
 00:09:14,404 --> 00:09:15,871
@@ -548,7 +548,7 @@ And see what happens!
 
 138
 00:10:06,635 --> 00:10:08,335
-Press it now!
+I have now pressed once on it!
 
 139
 00:10:08,335 --> 00:10:09,168
@@ -588,7 +588,7 @@ Is an on and off switch.
 
 148
 00:10:37,233 --> 00:10:40,566
-hmm But actually I have it now...
+Hmm. But actually I have it now...
 
 149
 00:10:41,099 --> 00:10:42,533
@@ -648,7 +648,7 @@ No!
 
 163
 00:11:27,797 --> 00:11:36,763
-looks ok
+Looks ok!
 
 164
 00:11:36,763 --> 00:11:39,463
@@ -676,7 +676,7 @@ Ah yes, you had to press both at the same time.
 
 170
 00:11:56,662 --> 00:12:00,095
-So and now the car says Keystone in progress...
+So and now the car says Auto Keystone in progress...
 
 171
 00:12:00,295 --> 00:12:04,195
@@ -728,7 +728,7 @@ put something underneath it now because unlike the
 
 183
 00:12:46,460 --> 00:12:49,026
-ViewSonic... opps sorry!
+ViewSonic... Oops sorry!
 
 184
 00:12:49,026 --> 00:12:50,693
@@ -760,7 +760,7 @@ This is small now,
 
 191
 00:13:12,825 --> 00:13:14,592
-try again here.
+Try again here.
 
 192
 00:13:14,592 --> 00:13:18,691
@@ -772,7 +772,7 @@ I'm making a video...
 
 194
 00:13:20,025 --> 00:13:22,024
-(roommate: Oh, I have to be quiet)
+(Roommate: Oh, I have to be quiet)
 
 195
 00:13:24,224 --> 00:13:25,858
@@ -792,11 +792,11 @@ Infant!
 
 199
 00:13:40,090 --> 00:13:42,790
-stay on it?
+Stay on it?
 
 200
 00:13:43,523 --> 00:13:46,423
-double click?
+Double click?
 
 201
 00:13:46,423 --> 00:13:48,256
@@ -808,19 +808,19 @@ I don't know if that's really what it was now.
 
 203
 00:13:51,756 --> 00:13:54,289
-So, now we have... Let
+So, now we have...
 
 204
 00:13:55,456 --> 00:13:56,623
-'s set the language.
+Let's set the language.
 
 205
 00:13:56,623 --> 00:13:59,356
-So first of all
+So first of all,
 
 206
 00:14:00,289 --> 00:14:04,189
-, I like the setup better than with the
+I like the setup better than with the
 
 207
 00:14:05,789 --> 00:14:08,822
@@ -888,7 +888,7 @@ And then you get to the special characters!
 
 223
 00:15:21,018 --> 00:15:22,652
-bang!
+Bang!
 
 224
 00:15:29,784 --> 00:15:32,284
@@ -936,11 +936,11 @@ So I enter again, from the beginning.
 
 235
 00:16:14,082 --> 00:16:17,849
-I like the keyboard
+I like the keyboard.
 
 236
 00:16:22,248 --> 00:16:25,515
-. So, now I'm done!
+So, now I'm done!
 
 237
 00:16:25,515 --> 00:16:28,481
@@ -960,7 +960,6 @@ I assume that this is supposed to be this “next button”.
 
 241
 00:16:38,214 --> 00:16:39,448
-I assume that this is supposed to be this “next button”.
 Yes!
 
 242
