@@ -12,7 +12,7 @@ După ce am testat recent
 
 4
 00:00:23,265 --> 00:00:25,265
-YouSonic
+ViewSonic
 
 5
 00:00:26,265 --> 00:00:28,031
