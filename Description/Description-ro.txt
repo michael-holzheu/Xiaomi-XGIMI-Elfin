@@ -1,0 +1,39 @@
+După ce am analizat deja pe scurt ViewSonic M2W, acum colegul chinez Xiaomi XGIMI Elfin intră sub lupă.
+
+Semne de carte:
+
+00:01 Despachetarea
+01:51 Opțiuni de conectare
+08:16 Muzica de pornire liniștitoare
+08:38 Oprirea aparatului
+09:18 Pornirea aparatului
+09:22 Pornirea afișajului
+09:51 Împerecherea telecomenzii Bluetooth
+11:07 Verificarea bateriei
+11:56 Corecție automată a trapezului Keystone
+12:10 Auto zoom și auto keystone în acțiune
+13:24 Împerecherea telecomenzii (a doua încercare)
+24:06 Actualizarea sistemului
+25:27 Luminozitatea imaginii cu și fără lumină de tavan
+27:29 Redarea unui film VIEWSONIC-M2W
+29:17 Conectarea MS-S-L-STUDIO
+30:12 Adaptor USB-C la USB-A, cablu USB-C
+34:09 Conectarea cu HDMI
+35:27 Adaptor USB-C la HDMI
+37:22 MS-S-L-STUDIO este conectat
+39:53 Test video YouTube
+43:14 Camera este acum complet întunecată
+43:37 Test cu MACBOOK-PRO
+47:07 Rezumat
+
+Muzica folosită:
+
+- Succesul întregii echipe (WinnieTheMoog).
+
+Gestionarea versiunilor:
+
+- GitHub: https://github.com/michael-holzheu/Xiaomi-XGIMI-Elfin
+
+Jurnal de modificări:
+
+24.01.2023 Prima versiune

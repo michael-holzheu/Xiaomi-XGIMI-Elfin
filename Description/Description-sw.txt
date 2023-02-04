@@ -1,0 +1,39 @@
+Baada ya tayari nimeangalia kwa ufupi M2W ya Viewsonic, mwenzake wa China Xiaomi Xgimi Elfin sasa anaangalia kwa karibu.
+
+Rukia chapa:
+
+00:01 Unfing
+01:51 Chaguzi za Uunganisho
+08:16 Kubadilisha Muziki wa Kubadilisha
+08:38 Zima kifaa
+09:18 Kubadilisha kifaa
+09:22 Kubadilisha kwenye onyesho
+09:51 Pair Bluetooth Remote Control
+11:07 mtihani wa betri
+11:56 Urekebishaji wa moja kwa moja wa trapezoidal
+12:10 Auto Zoom na Auto-Keystone katika Action
+13:24 Jozi za Udhibiti wa Kijijini (Jaribio la Pili)
+24:06 Sasisho la Mfumo
+25:27 Picha na bila taa ya dari
+27:29 Cheza filamu ya Viewsonic-M2W
+Unganisha 29:17 MSS-L Studio
+30:12 Adapter USB-C kwenye USB-A, Cable ya USB-C
+34:09 Unganisha na HDMI
+35:27 Adapter USB-C kwa HDMI
+37:22 Studio ya MSS-L imeunganishwa
+39:53 Pima video ya YouTube
+43:14 Chumba sasa ni giza kabisa
+Mtihani wa 43:37 na MacBook-Pro
+47:07 Muhtasari
+
+Muziki uliotumiwa:
+
+- Mafanikio ya timu nzima (Winniethemoog)
+
+Usimamizi wa Toleo:
+
+-Github: https://github.com/michael-holzheu/xiaomi-xgimi elfin
+
+ChangeLog:
+
+24.01.2023 Toleo la kwanza
